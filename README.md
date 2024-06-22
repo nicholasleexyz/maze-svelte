@@ -1,4 +1,4 @@
-# maze generation
+# Maze Generation
 
 ![image](https://github.com/nicholasleexyz/maze-svelte/assets/129869926/e1f3919f-e1ce-4aee-a98c-df484c9aaae8)
 
